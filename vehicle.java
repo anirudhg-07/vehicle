@@ -106,11 +106,11 @@ class ParkingLot {
     }
     public Car getHead() {
     return head;
-}
+    }
 
-public Car getTail() {
+    public Car getTail() {
     return tail;
-}
+    }
 
 }
 
