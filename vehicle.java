@@ -104,6 +104,14 @@ class ParkingLot {
             current = current.prev;
         }
     }
+    public Car getHead() {
+    return head;
+}
+
+public Car getTail() {
+    return tail;
+}
+
 }
 
 // Main class (Menu Driven Program)
